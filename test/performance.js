@@ -113,3 +113,4 @@ MathJax.Hub.Queue(function () {
   var EVENTS = PROFILER.events, MATH, MATHSTART, MATHn;
   for (var i = 0, m = EVENTS.length; i < m; i++) {(Handle[EVENTS[i].T])(EVENTS[i])}
 })
+

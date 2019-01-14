@@ -1,6 +1,5 @@
 # MathJax-profiler
 
-
 This repository contains the MathJax profiler and a sample 
 HTML file visually rendering the profiling data.
 
@@ -39,3 +38,4 @@ function Data_Saver() {
         "MathJax.js" === f && _gaq.push(["_trackTiming", "MathJax", f, c[d].c, document.URL])
     }
 }
+```
